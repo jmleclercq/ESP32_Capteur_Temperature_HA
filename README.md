@@ -128,6 +128,6 @@ Aucune dépendance cloud nécessaire.
 
 ## 📜 Licence
 
-MIT © VotreNom
+MIT © jmleclercq
 
 ---
